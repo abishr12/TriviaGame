@@ -1,0 +1,23 @@
+#start-button {
+  background-color: blue;
+  max-width: 100px;
+  text-align: center;
+  padding: 10px;
+}
+
+#start-button:hover {
+  background-color: green;
+}
+
+#main-screen {
+  position: absolute;
+  border: 3px solid #73ad21;
+  left: 25%;
+  padding: 30px;
+  height: 300px;
+  width: 600px;
+  font-family: fantasy;
+}
+body {
+  background-image: url("../images/superhero.png");
+}
